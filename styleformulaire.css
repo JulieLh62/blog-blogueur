@@ -1,15 +1,22 @@
+
+
 body{
 color: rgb(0, 0, 0);
 text-align:justify;
+font-family: 'Montserrat', sans-serif;
+margin: 50px;
+
 }
 
 h1{
-    color: #bb01ff;
+    color: #e1466f;
+    font-family: 'Abril Fatface', cursive;
 }
 
 .container{
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    align-items:center;
     justify-content:center;
     gap: 10px;
-}
+} 

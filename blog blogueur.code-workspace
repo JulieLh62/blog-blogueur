@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Html/formulaire"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blog blogueur"
+	}
+}
